@@ -1,5 +1,5 @@
 ---
-name: racconta-progetto-pagina
+name: descrivi-idea-prodotto
 description: "Ordina in dieci blocchi la pagina web che presenta un progetto o un'idea di business a chi non ha contesto, dalla tensione iniziale alle domande aperte. Usa quando l'utente chiede di scrivere, strutturare o rivedere una pagina di presentazione o una landing di un progetto."
 ---
 
@@ -61,7 +61,7 @@ Rischi, compromessi accettati, decisioni ancora da prendere. Chiudono la pagina.
 
 ## Regole di scrittura
 
-Ogni testo visibile passa il filtro [Filtra lo stile linguistico](https://www.cryptohelvetia.com/ch-labs/prompt-library/chat-preferences/filtra-stile-linguistico), con entrambi i blocchi. A queste regole la pagina aggiunge le sue.
+Ogni testo visibile passa il filtro [Filtra lo stile linguistico](https://www.cryptohelvetia.com/ch-labs/prompt-library/chat-preferences/umanizza-stile-linguistico), con entrambi i blocchi. A queste regole la pagina aggiunge le sue.
 
 1. Liste puntate solo dove esiste un elenco vero. Il ragionamento si scrive in prosa.
 2. Presente indicativo, senza condizionali difensivi come «potrebbe permettere di».

@@ -1,10 +1,10 @@
 {
-  "name": "racconta-progetto-pagina",
+  "name": "descrivi-idea-prodotto",
   "description": "Ordina in dieci blocchi la pagina web che presenta un progetto o un'idea di business a chi non ha contesto, dalla tensione iniziale alle domande aperte. Usa quando l'utente chiede di scrivere, strutturare o rivedere una pagina di presentazione o una landing di un progetto.",
   "author": {
     "name": "Tiziano Boccaccini"
   },
-  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/racconta-progetto-pagina",
-  "repository": "https://github.com/MicheDada21/racconta-progetto-pagina",
+  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/descrivi-idea-prodotto",
+  "repository": "https://github.com/MicheDada21/descrivi-idea-prodotto",
   "license": "MIT"
 }
