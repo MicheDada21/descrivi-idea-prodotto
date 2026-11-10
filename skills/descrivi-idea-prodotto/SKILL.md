@@ -3,7 +3,7 @@ name: descrivi-idea-prodotto
 description: "Orders in ten blocks the page that presents a project or business idea to readers with no context, from the opening tension to the open questions. Use when writing or revising a landing page."
 ---
 
-# Racconta un progetto in una pagina web
+# Descrivi idea prodotto
 
 ## Il principio
 
